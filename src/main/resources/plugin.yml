@@ -1,0 +1,6 @@
+name: RemotePet
+version: '${project.version}'
+main: me.welcomehyunseo.remotepet.RemotePet
+commands:
+  custompig:
+    description: Spawn custom pig.
